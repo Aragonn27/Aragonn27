@@ -36,6 +36,7 @@
   <li><strong>Introducción a la Programación</strong> – UTN Buenos Aires (2023)</li>
   <li><strong>Diplomatura en Programación Web FullStack con React JS</strong> – UTN Buenos Aires (2024)</li>
   <li><strong>Postman API Fundamentals Student Expert</strong> – Postman Academy (2025)</li>
+  <li><strong>Software developer Nivel 0</strong> – APX School (2025)</li>
 </ul>
 
 

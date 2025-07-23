@@ -173,3 +173,14 @@
 </ul>
 
 
+## 🎓 Aprendiendo Tecnologías
+🌐 Frontend
+html5 logo  css3 logo  bootstrap logo  javascript logo  jquery logo  react logo  typescript logo
+⚙️ Backend
+nodejs logo  express logo  php logo
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+🗃️ Bases de Datos
+mongodb logo  mysql logo
+🛠️ Herramientas
+git logo  gitlab logo  figma logo  xampp logo  vercel logo

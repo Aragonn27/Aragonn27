@@ -174,13 +174,31 @@
 
 
 ## 🎓 Aprendiendo Tecnologías
-🌐 Frontend
-html5 logo  css3 logo  bootstrap logo  javascript logo  jquery logo  react logo  typescript logo
 ⚙️ Backend
-nodejs logo  express logo  php logo
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+
+
+🌐 Frontend  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
 🗃️ Bases de Datos
-mongodb logo  mysql logo
-🛠️ Herramientas
-git logo  gitlab logo  figma logo  xampp logo  vercel logo
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
+🛠️ Herramientas Testing
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+🐞 Gestión de incidencias y proyectos
+
+![MantisBT](https://img.shields.io/badge/MantisBT-507C1D?style=flat&logo=mantis&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Service Desk](https://img.shields.io/badge/Service_Desk-0052CC?style=flat&logo=atlassian&logoColor=white)  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+
+
+
